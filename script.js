@@ -6,7 +6,7 @@ document.getElementById("searchForm").addEventListener("submit", async function 
 
     try {
         // Ganti URL dengan URL JSON Anda
-        const sheetURL = 'https://script.google.com/macros/s/AKfycbyRQSg5XdCVfnxB3zzPTCoJ0ALabCX2FMxK39f_nP0lbWofd1-hIGOjtRHO-rhlyOwC/exec';
+        const sheetURL = 'https://docs.google.com/spreadsheets/d/1PS_Qa0nswjuWZZclEWfVX7N1haG34SaWsok5gIIZimk/edit';
         const response = await fetch(sheetURL);
 
         // Cek apakah response valid
