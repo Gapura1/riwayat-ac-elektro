@@ -1,5 +1,6 @@
-[
- {
+{
+  "RiwayatPerawatan": [
+    {
    "Kode AC": "AJ.101_1",
    "Tanggal": "01/12/2024",
    "Teknisi": "Joko",
