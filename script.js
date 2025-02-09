@@ -6,7 +6,7 @@ document.getElementById("searchForm").addEventListener("submit", async function 
 
     try {
         // Ganti URL dengan URL JSON di GitHub
-        const response = await fetch("https://raw.githubusercontent.com/username/riwayat-ac-elektro/main/riwayat_perawatan.json");
+        const response = await fetch("https://raw.githubusercontent.com/Gapura1/riwayat-ac-elektro/refs/heads/main/riwayat_perawatan.json");
         if (!response.ok) throw new Error("Gagal mengambil data");
         
         const data = await response.json();
