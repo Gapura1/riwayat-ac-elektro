@@ -5,14 +5,14 @@ document.getElementById("searchForm").addEventListener("submit", async function 
     resultDiv.innerHTML = "<p>Memuat data...</p>";
 
     try {
-        // Ambil data dari file JSON di GitHub
+        // Ganti URL dengan URL JSON di GitHub
         const response = await fetch("https://raw.githubusercontent.com/username/riwayat-ac-elektro/main/riwayat_perawatan.json");
         if (!response.ok) throw new Error("Gagal mengambil data");
         
         const data = await response.json();
         console.log("Data dari GitHub:", data);
 
-        // Filter data berdasarkan Kode AC (case-insensitive)
+        // Filter data (sesuai properti JSON)
         const filteredData = data.filter(item => 
             item["Kode AC"].toLowerCase() === kodeAC
         );
@@ -54,6 +54,6 @@ document.getElementById("searchForm").addEventListener("submit", async function 
         }
     } catch (error) {
         console.error("Error:", error);
-        resultDiv.innerHTML = `<p>Gagal memuat data. Error: ${error.message}</p>`;
+        resultDiv.innerHTML = `<p>${error.message}</p>`;
     }
 });
