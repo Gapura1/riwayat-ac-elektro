@@ -1,0 +1,1512 @@
+{
+"RiwayatPerawatan":[
+ {
+  "Kode AC": "AJ.101_1",
+  "Tanggal": "01\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.101_2",
+  "Tanggal": "02\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.101_3",
+  "Tanggal": "03\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.101_4",
+  "Tanggal": "04\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.101_5",
+  "Tanggal": "05\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.102_1",
+  "Tanggal": "06\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.102_2",
+  "Tanggal": "07\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.102_3",
+  "Tanggal": "08\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.103_1",
+  "Tanggal": "09\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.103_2",
+  "Tanggal": "10\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.103_3",
+  "Tanggal": "11\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.104_1",
+  "Tanggal": "12\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.104_2",
+  "Tanggal": "13\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.104_3",
+  "Tanggal": "14\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.104_4",
+  "Tanggal": "15\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.104_5",
+  "Tanggal": "16\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.201_1",
+  "Tanggal": "17\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.201_2",
+  "Tanggal": "18\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.201_3",
+  "Tanggal": "19\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.201_4",
+  "Tanggal": "20\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.201_5",
+  "Tanggal": "21\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.202_1",
+  "Tanggal": "22\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.202_2",
+  "Tanggal": "23\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.202_3",
+  "Tanggal": "24\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.204_1",
+  "Tanggal": "25\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.204_2",
+  "Tanggal": "26\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.204_3",
+  "Tanggal": "27\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.204_4",
+  "Tanggal": "28\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.204_5",
+  "Tanggal": "29\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.301_1",
+  "Tanggal": "30\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.301_2",
+  "Tanggal": "31\/12\/2024",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.301_3",
+  "Tanggal": "01\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.301_4",
+  "Tanggal": "02\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.301_5",
+  "Tanggal": "03\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.302_1",
+  "Tanggal": "04\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.302_2",
+  "Tanggal": "05\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.302_3",
+  "Tanggal": "06\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.303_1",
+  "Tanggal": "07\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.303_2",
+  "Tanggal": "08\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.303_3",
+  "Tanggal": "09\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.304_1",
+  "Tanggal": "10\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.304_2",
+  "Tanggal": "11\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.304_3",
+  "Tanggal": "12\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.304_4",
+  "Tanggal": "13\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "AJ.304_5",
+  "Tanggal": "14\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.101_1",
+  "Tanggal": "15\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.101_2",
+  "Tanggal": "16\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.101_3",
+  "Tanggal": "17\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.101_4",
+  "Tanggal": "18\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.102_1",
+  "Tanggal": "19\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.102_2",
+  "Tanggal": "20\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.103_1",
+  "Tanggal": "21\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.103_2",
+  "Tanggal": "22\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.103_3",
+  "Tanggal": "23\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.104_1",
+  "Tanggal": "24\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.104_2",
+  "Tanggal": "25\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.104_3",
+  "Tanggal": "26\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.104_4",
+  "Tanggal": "27\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.104_5",
+  "Tanggal": "28\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.105_1",
+  "Tanggal": "29\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.105_2",
+  "Tanggal": "30\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.107_1",
+  "Tanggal": "31\/01\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.202_1",
+  "Tanggal": "01\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.202_2",
+  "Tanggal": "02\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.202_3",
+  "Tanggal": "03\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.203_1",
+  "Tanggal": "04\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.203_2",
+  "Tanggal": "05\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.203_3",
+  "Tanggal": "06\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.204_1",
+  "Tanggal": "07\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.204_2",
+  "Tanggal": "08\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.204_3",
+  "Tanggal": "09\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.206_1",
+  "Tanggal": "10\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.207_1",
+  "Tanggal": "11\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.301_1",
+  "Tanggal": "12\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.301_2",
+  "Tanggal": "13\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.301_3",
+  "Tanggal": "14\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.302_1",
+  "Tanggal": "15\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.302_2",
+  "Tanggal": "16\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.303_1",
+  "Tanggal": "17\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.304_1",
+  "Tanggal": "18\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.304_2",
+  "Tanggal": "19\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.305_1",
+  "Tanggal": "20\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.306_1",
+  "Tanggal": "21\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.306_2",
+  "Tanggal": "22\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " B.306_3",
+  "Tanggal": "23\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.101_1",
+  "Tanggal": "24\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.101_2",
+  "Tanggal": "25\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.101A_1",
+  "Tanggal": "26\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.101A_2",
+  "Tanggal": "27\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.102_1",
+  "Tanggal": "28\/02\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.102_2",
+  "Tanggal": "01\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.103_1",
+  "Tanggal": "02\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.103_2",
+  "Tanggal": "03\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.104_1",
+  "Tanggal": "04\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.104_2",
+  "Tanggal": "05\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.105",
+  "Tanggal": "06\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.106_1",
+  "Tanggal": "07\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.106_2",
+  "Tanggal": "08\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.107_1",
+  "Tanggal": "09\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.107_2",
+  "Tanggal": "10\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.108_1",
+  "Tanggal": "11\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.108_2",
+  "Tanggal": "12\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.109_1",
+  "Tanggal": "13\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.109_2",
+  "Tanggal": "14\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.110_1",
+  "Tanggal": "15\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.110_2",
+  "Tanggal": "16\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.111_1",
+  "Tanggal": "17\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.111_2",
+  "Tanggal": "18\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.201",
+  "Tanggal": "19\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.202",
+  "Tanggal": "20\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.203",
+  "Tanggal": "21\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.204",
+  "Tanggal": "22\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.205",
+  "Tanggal": "23\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.206",
+  "Tanggal": "24\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.207",
+  "Tanggal": "25\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.208",
+  "Tanggal": "26\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.209",
+  "Tanggal": "27\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.210",
+  "Tanggal": "28\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.211",
+  "Tanggal": "29\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.212",
+  "Tanggal": "30\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.212A",
+  "Tanggal": "31\/03\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.212B",
+  "Tanggal": "01\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.213",
+  "Tanggal": "02\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.213",
+  "Tanggal": "03\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.214",
+  "Tanggal": "04\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.215",
+  "Tanggal": "05\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.216",
+  "Tanggal": "06\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.217",
+  "Tanggal": "07\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.218",
+  "Tanggal": "08\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.218A",
+  "Tanggal": "09\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.218A",
+  "Tanggal": "10\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.218B",
+  "Tanggal": "11\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.218B",
+  "Tanggal": "12\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.219",
+  "Tanggal": "13\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.220",
+  "Tanggal": "14\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.221",
+  "Tanggal": "15\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.222",
+  "Tanggal": "16\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.223",
+  "Tanggal": "17\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.224",
+  "Tanggal": "18\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.225",
+  "Tanggal": "19\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.226",
+  "Tanggal": "20\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.227_1",
+  "Tanggal": "21\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "C.227_1",
+  "Tanggal": "22\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.228",
+  "Tanggal": "23\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.229",
+  "Tanggal": "24\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.230",
+  "Tanggal": "25\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.231",
+  "Tanggal": "26\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.232",
+  "Tanggal": "27\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.233",
+  "Tanggal": "28\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.234",
+  "Tanggal": "29\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " C.236",
+  "Tanggal": "30\/04\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.201",
+  "Tanggal": "01\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.202_1",
+  "Tanggal": "02\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.202_2",
+  "Tanggal": "03\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.204_1",
+  "Tanggal": "04\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "A.204_2",
+  "Tanggal": "05\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.205_1",
+  "Tanggal": "06\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "A.205_2",
+  "Tanggal": "07\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.206",
+  "Tanggal": "08\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.207",
+  "Tanggal": "09\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.102_1",
+  "Tanggal": "10\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.102_2",
+  "Tanggal": "11\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.102_3",
+  "Tanggal": "12\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": " A.102_4",
+  "Tanggal": "13\/05\/2025",
+  "Teknisi": "Joko",
+  "Jenis Perawatan": "Cuci AC",
+  "Keterangan": "Kondisi normal"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ },
+ {
+  "Kode AC": "#REF!"
+ }
+]
+}
