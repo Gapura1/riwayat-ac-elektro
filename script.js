@@ -5,22 +5,23 @@ document.getElementById("searchForm").addEventListener("submit", async function 
     resultDiv.innerHTML = "<p>Memuat data...</p>";
 
     try {
-        // Ambil data dari URL JSON
-        const response = await fetch("https://raw.githubusercontent.com/Gapura1/riwayat-ac-elektro/refs/heads/main/riwayat_perawatan.json");
+        // Ambil data dari URL JSON di GitHub
+        const response = await fetch("https://raw.githubusercontent.com/Gapura1/riwayat-ac-elektro/main/riwayat_perawatan.json");
         if (!response.ok) throw new Error("Gagal mengambil data");
         
         const data = await response.json();
         console.log("Data dari GitHub:", data);
 
-        // Pastikan kita mengambil array yang ada di dalam kunci "RiwayatPerawatan"
-        if (!data.RiwayatPerawatan || !Array.isArray(data.RiwayatPerawatan)) {
+        // Akses array di dalam properti "RiwayatPerawatan"
+        const riwayatPerawatan = data.RiwayatPerawatan;
+
+        // Pastikan data adalah array
+        if (!Array.isArray(riwayatPerawatan)) {
             throw new Error("Format data tidak valid. Harus berupa array dalam 'RiwayatPerawatan'.");
         }
 
-        const perawatanArray = data.RiwayatPerawatan;
-
         // Filter data berdasarkan Kode AC (case-insensitive)
-        const filteredData = perawatanArray.filter(item => 
+        const filteredData = riwayatPerawatan.filter(item => 
             item["Kode AC"].toLowerCase() === kodeAC
         );
 
